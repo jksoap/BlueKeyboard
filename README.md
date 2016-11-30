@@ -1,2 +1,1 @@
-# BlueKeyboard
-This project is a expeirence to refit a wired keyboard to a  wirless bluethkeyboard.
+这是我在github提交的第一个项目。因为我想要把我的有线机械键盘改装成一个无线蓝牙键盘。最近一段时间考试比较多，进度肯定会比较慢  但是我会一步步来的。
